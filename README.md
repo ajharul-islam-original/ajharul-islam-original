@@ -2,7 +2,7 @@
 
 <h3 align="left">Full Stack Web Developer from Bangladesh</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=ajharul-islam-original&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
