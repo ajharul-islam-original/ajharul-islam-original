@@ -123,7 +123,9 @@ I’m looking to collaborate on **React and Full Stack Web Development projects*
 - GitHub: https://github.com/ajharul-islam-original
 - <p align="left"> 
   <a href="YOUR_LINKEDIN_URL"> <img src="https://skillicons.dev/icons?i=linkedin" width="40" /> </a>
-  <a href="YOUR_PORTFOLIO_URL"> <img src="https://facebook.dev/icons?i=vercel" width="40" /> </a> 
+  <a href="https://www.facebook.com/ajharul.islam" target="_blank">
+  <img src="https://skillicons.dev/icons?i=facebook" width="40" />
+</a>
   </p>
 
 
