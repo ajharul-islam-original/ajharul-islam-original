@@ -104,12 +104,13 @@ https://github.com/ajharul-islam-original/my-ass-one-page-app
 ## 📌 Featured Projects
 ### 🛍️ Project 1 — YOUR_PROJECT_NAME
 
--- Overview: A responsive web application built with modern front-end technologies.
+#### Overview: A responsive web application built with modern front-end technologies.
 
--- Tech Stack: HTML • CSS • JavaScript • React
+ 🔹Tech Stack: HTML • CSS • Typescript • JavaScript • React
 
-🔗 Live: YOUR_LIVE_LINK
-🔗 Repository: YOUR_REPOSITORY_LINK
+🔗 Live: https://precious-liger-62b525.netlify.app/
+🔗 Repository:https://github.com/ajharul-islam-anik/my-web-dev-project-app
+
 
 ### 🌸 Project 2 — YOUR_PROJECT_NAME
 
