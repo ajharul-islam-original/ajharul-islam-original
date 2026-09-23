@@ -39,11 +39,10 @@ I enjoy learning new technologies and improving my development skills.
 
 ---
 
-## 🛠️ My Tech Stack
+#### 🛠️ My Tech Stack
 
-### 🎨 Frontend
 
-### 🎨 Frontend
+#### 🎨 Frontend
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="55" height="55" alt="HTML5"/>
@@ -56,7 +55,7 @@ I enjoy learning new technologies and improving my development skills.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="55" height="55" alt="Bootstrap"/>
 </p>
 
-### ⚙️ Backend & Database
+#### ⚙️ Backend & Database
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="55" height="55" alt="Node.js"/>
@@ -65,7 +64,7 @@ I enjoy learning new technologies and improving my development skills.
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="55" height="55" alt="Firebase"/>
 </p>
 
-### 🎨 Design & Tools
+#### 🎨 Design & Tools
 
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="55" height="55" alt="Figma"/>
@@ -77,7 +76,7 @@ I enjoy learning new technologies and improving my development skills.
 
 ---
 
-## 🚀 My Current Projects
+### 🚀 My Current Projects
 
 ### 🔹 Dev Project
 
