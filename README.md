@@ -57,14 +57,13 @@ I enjoy learning new technologies and improving my development skills.
 
 ## Backend & Database
 
-<p align="left">
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="55" height="55" alt="Node.js"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="55" height="55" alt="Express.js"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="55" height="55" alt="MongoDB"/>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="55" height="55" alt="Firebase"/>
 </p>
 
- <br>
  
 ## Design & Tools
 
