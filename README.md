@@ -121,15 +121,11 @@ I’m looking to collaborate on **React and Full Stack Web Development projects*
 # 📫 Connect With Me
 - 📧 Email: ajharuloriginal@gmail.com
 - GitHub: https://github.com/ajharul-islam-original
+- <p align="left"> <a href="YOUR_LINKEDIN_URL"> <img src="https://skillicons.dev/icons?i=linkedin" width="40" /> </a>
+ <a href="YOUR_FACEBOOK_URL"> <img src="https://skillicons.dev/icons?i=facebook" width="40" /> </a>
+  <a href="YOUR_PORTFOLIO_URL"> <img src="https://facebook.dev/icons?i=vercel" width="40" /> </a> 
+  </p>
 
-
----
-
-🌐 Connect With Me
-
-<p align="left"> <a href="YOUR_LINKEDIN_URL"> <img src="https://skillicons.dev/icons?i=linkedin" width="40" /> </a> <a href="YOUR_FACEBOOK_URL"> <img src="https://skillicons.dev/icons?i=facebook" width="40" /> </a> <a href="YOUR_PORTFOLIO_URL"> <img src="https://skillicons.dev/icons?i=vercel" width="40" /> </a> </p>
-
-📧 Email: YOUR_EMAIL@gmail.com
 
 
 ---
