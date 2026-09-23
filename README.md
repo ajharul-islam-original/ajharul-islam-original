@@ -108,7 +108,7 @@ https://github.com/ajharul-islam-original/my-ass-one-page-app
 
  🔹Tech Stack: HTML • CSS • Typescript • JavaScript • React
 
-🔗 Live: https://precious-liger-62b525.netlify.app/
+🔗 Live: https://precious-liger-62b525.netlify.app/ <br>
 🔗 Repository:https://github.com/ajharul-islam-anik/my-web-dev-project-app
 
 
