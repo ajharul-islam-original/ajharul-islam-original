@@ -40,9 +40,8 @@ I enjoy learning new technologies and improving my development skills.
 ---
 
 ## 🛠️ Technologies & Tools
-<br>
 
-### 🎨 Frontend
+### Frontend
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="55" height="55" alt="HTML5"/>
@@ -55,9 +54,8 @@ I enjoy learning new technologies and improving my development skills.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="55" height="55" alt="Bootstrap"/>
 </p>
 
-<br>
 
-## ⚙️ Backend & Database
+## Backend & Database
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="55" height="55" alt="Node.js"/>
@@ -68,7 +66,7 @@ I enjoy learning new technologies and improving my development skills.
 
  <br>
  
-## 🎨 Design & Tools
+## Design & Tools
 
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="55" height="55" alt="Figma"/>
