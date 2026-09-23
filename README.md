@@ -39,10 +39,10 @@ I enjoy learning new technologies and improving my development skills.
 
 ---
 
-# 🛠️ My Tech Stack
+## 🛠️ Technologies & Tools
 <br>
 
-## 🎨 Frontend
+### 🎨 Frontend
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="55" height="55" alt="HTML5"/>
