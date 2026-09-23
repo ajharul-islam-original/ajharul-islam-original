@@ -34,7 +34,6 @@ I enjoy learning new technologies and improving my development skills.
 - 👯 I’m looking to collaborate on **React Projects**
 - 🤝 I’m looking for help with **Full Stack Development**
 - 💬 Ask me about **JavaScript, React, Frontend & Full Stack Development**
-- 📫 How to reach me **ajharuloriginal@gmail.com**
 - ⚡ Fun fact **I love building websites and learning new technologies**
 - 📍 Location: Bangladesh
 - 📧 Email: ajharuloriginal@gmail.com
