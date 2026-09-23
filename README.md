@@ -36,6 +36,8 @@ I enjoy learning new technologies and improving my development skills.
 - 💬 Ask me about **JavaScript, React, Frontend & Full Stack Development**
 - 📫 How to reach me **ajharuloriginal@gmail.com**
 - ⚡ Fun fact **I love building websites and learning new technologies**
+- 📍 Location: Bangladesh
+- 📧 Email: ajharuloriginal@gmail.com
 
 ---
 
