@@ -39,10 +39,10 @@ I enjoy learning new technologies and improving my development skills.
 
 ---
 
-#### 🛠️ My Tech Stack
+# 🛠️ My Tech Stack
 
 
-#### 🎨 Frontend
+## 🎨 Frontend
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="55" height="55" alt="HTML5"/>
@@ -55,7 +55,7 @@ I enjoy learning new technologies and improving my development skills.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="55" height="55" alt="Bootstrap"/>
 </p>
 
-#### ⚙️ Backend & Database
+## ⚙️ Backend & Database
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="55" height="55" alt="Node.js"/>
@@ -64,7 +64,7 @@ I enjoy learning new technologies and improving my development skills.
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="55" height="55" alt="Firebase"/>
 </p>
 
-#### 🎨 Design & Tools
+## 🎨 Design & Tools
 
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="55" height="55" alt="Figma"/>
@@ -76,9 +76,9 @@ I enjoy learning new technologies and improving my development skills.
 
 ---
 
-### 🚀 My Current Projects
+# 🚀 My Current Projects
 
-### 🔹 Dev Project
+## 🔹 Dev Project
 
 **Dev Project** is one of my web development projects.
 
@@ -87,7 +87,7 @@ https://github.com/ajharul-islam-original/my-web-dev-project-app
 
 ---
 
-### 🔹 React One Page Project
+## 🔹 React One Page Project
 
 A responsive React-based web project.
 
@@ -96,7 +96,7 @@ https://github.com/ajharul-islam-original/my-ass-one-page-app
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
 - ⚛️ React.js
 - 🎨 Tailwind CSS
@@ -113,7 +113,7 @@ I’m looking to collaborate on **React and Full Stack Web Development projects*
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 - 📧 Email: ajharuloriginal@gmail.com
 - GitHub: https://github.com/ajharul-islam-original
 
