@@ -45,6 +45,8 @@ I enjoy learning new technologies and improving my development skills.
 
 <p align="left">
 
+<img src="HTML_IMAGE_URL" width="60"/>
+
 <a href="https://www.w3.org/html/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
 </a>
