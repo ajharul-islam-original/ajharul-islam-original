@@ -40,7 +40,8 @@ I enjoy learning new technologies and improving my development skills.
 ---
 
 # 🛠️ My Tech Stack
-
+<br>
+<br>
 
 ## 🎨 Frontend
 
@@ -67,6 +68,9 @@ I enjoy learning new technologies and improving my development skills.
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="55" height="55" alt="Firebase"/>
 </p>
 
+ <br>
+ <br>
+ 
 ## 🎨 Design & Tools
 
 <p align="left">
@@ -80,6 +84,7 @@ I enjoy learning new technologies and improving my development skills.
 ---
 
 # 🚀 My Current Projects
+<br>
 
 ## 🔹 Dev Project
 
