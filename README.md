@@ -1,12 +1,9 @@
-<h1 align="center">👋 Hi, I'm Ajharul Islam</h1>
+<h1 align="center">Hi 👋, I'm Ajharul Islam</h1>
 
-<h3 align="center">💻 Full Stack Web Developer from Bangladesh</h3>
+<h3 align="center">Full Stack Web Developer from Bangladesh</h3>
 
 <p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=ajharul-islam-original&label=Profile%20Views&color=0e75b6&style=flat" 
-    alt="Profile Views"
-  />
+  <img src="https://komarev.com/ghpvc/?username=ajharul-islam-original&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <!-- ===================== BANNER ===================== -->
@@ -14,7 +11,7 @@
 <p align="center">
   <img
     src="https://scontent.fdac152-1.fna.fbcdn.net/v/t39.30808-6/795644346_122203399652396220_4450934151210695159_n.jpg?stp=dst-jpg_tt6&cstp=mx1280x480&ctp=s1280x480&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cc71b4&_nc_eui2=AeEEViqwFJbzFDBulbeMf0k5688bgboIP__rzxuBugg__zWIH04IbrObFP1MkBNdOeytXJ0bl6bQL85w0iJFt4d5&_nc_ohc=vr907JDeCSQQ7kNvwHe3pID&_nc_oc=AdrSGfoZKE_PHr6VRd4So4558DokymROtTZrpAfkYFeVNFqc-3wnubtu88mJ-mSdDDM&_nc_zt=23&_nc_ht=scontent.fdac152-1.fna&_nc_gid=VKVQZQ3OuXqKaKwQdCjy5Q&_nc_ss=7b2a8&oh=00_AQI5QU6UyX45WCeXg19d7CSZfXslDALap1kun0fWVtDDtQ&oe=6AB9B95C"
-    alt="Ajharul Islam - Full Stack Web Developer"
+    alt="Ajharul Islam - Web Developer"
     width="100%"
   />
 </p>
@@ -28,17 +25,17 @@ I'm <strong>Ajharul Islam</strong>, a passionate Full Stack Web Developer from B
 </p>
 
 <p>
-I love building modern, responsive, and user-friendly web applications.
-I enjoy working with JavaScript, React, TypeScript, Node.js, Express.js and MongoDB.
+I am a passionate developer who loves building modern, responsive, and user-friendly websites.
+I enjoy learning new technologies and improving my development skills.
 </p>
 
-- 🔭 Currently working on **Web Development Projects**
-- 🌱 Currently learning **React, TypeScript, Next.js & Node.js**
-- 💻 Focused on becoming a professional **Full Stack Developer**
-- 🤝 Looking to collaborate on **React & Full Stack Projects**
+- 🔭 I’m currently working on **Web Development Projects**
+- 🌱 I’m currently learning **Tailwind CSS, React, Next.js**
+- 👯 I’m looking to collaborate on **React Projects**
+- 🤝 I’m looking for help with **Full Stack Development**
 - 💬 Ask me about **JavaScript, React, Frontend & Full Stack Development**
-- 📫 Email: **ajharuloriginal@gmail.com**
-- ⚡ Fun fact: **I love turning ideas into websites**
+- 📫 How to reach me **ajharuloriginal@gmail.com**
+- ⚡ Fun fact **I love building websites and learning new technologies**
 
 ---
 
@@ -48,7 +45,7 @@ I enjoy working with JavaScript, React, TypeScript, Node.js, Express.js and Mong
 
 <p align="left">
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<a href="https://www.w3.org/html/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
 </a>
 
@@ -66,6 +63,14 @@ I enjoy working with JavaScript, React, TypeScript, Node.js, Express.js and Mong
 
 <a href="https://react.dev/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
+</a>
+
+<a href="https://reactnative.dev/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React Native"/>
+</a>
+
+<a href="https://vuejs.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="45" height="45" alt="Vue.js"/>
 </a>
 
 <a href="https://nextjs.org/">
@@ -104,21 +109,9 @@ I enjoy working with JavaScript, React, TypeScript, Node.js, Express.js and Mong
 
 </p>
 
-### 🔧 Tools & Design
+### 🎨 Design & Tools
 
 <p align="left">
-
-<a href="https://git-scm.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="45" height="45" alt="Git"/>
-</a>
-
-<a href="https://github.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-</a>
-
-<a href="https://code.visualstudio.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
-</a>
 
 <a href="https://www.figma.com/">
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45" alt="Figma"/>
@@ -128,61 +121,61 @@ I enjoy working with JavaScript, React, TypeScript, Node.js, Express.js and Mong
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" width="45" height="45" alt="Photoshop"/>
 </a>
 
+<a href="https://www.adobe.com/products/illustrator.html">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" width="45" height="45" alt="Illustrator"/>
+</a>
+
+<a href="https://git-scm.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="45" height="45" alt="Git"/>
+</a>
+
+<a href="https://github.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+</a>
+
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 My Current Projects
 
 ### 🔹 Dev Project
 
-A modern web development project built with modern frontend technologies.
+**Dev Project** is one of my web development projects.
 
-🔗 **Repository:**  
+🔗 Repository:  
 https://github.com/ajharul-islam-original/my-web-dev-project-app
+
+---
 
 ### 🔹 React One Page Project
 
 A responsive React-based web project.
 
-🔗 **Repository:**  
+🔗 Repository:  
 https://github.com/ajharul-islam-original/my-ass-one-page-app
 
 ---
 
-## 🤝 Connect With Me
+## 📚 Currently Learning
 
-<p align="left">
-
-<a href="https://www.facebook.com/photo/?fbid=122203399646396220&set=a.122116486076396220" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="40" alt="Facebook"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:ajharuloriginal@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/gmail.svg" width="40" height="40" alt="Email"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/ajharul-islam-original" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-</a>
-
-</p>
+- ⚛️ React.js
+- 🎨 Tailwind CSS
+- 🟦 TypeScript
+- ▲ Next.js
+- 🟢 Node.js
+- 🚀 Full Stack Web Development
 
 ---
 
-## 💡 My Development Journey
+## 🤝 Looking to Collaborate
 
-```text
-HTML → CSS → JavaScript → React → TypeScript
-                              ↓
-                           Node.js
-                              ↓
-                         Express.js
-                              ↓
-                          MongoDB
-                              ↓
-                    Full Stack Developer
+I’m looking to collaborate on **React and Full Stack Web Development projects**.
+
+---
+
+## 💬 Ask Me About
+
+- JavaScript
+- React.js
+- Frontend Development
