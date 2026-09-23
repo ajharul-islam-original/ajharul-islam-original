@@ -43,94 +43,36 @@ I enjoy learning new technologies and improving my development skills.
 
 ### 🎨 Frontend
 
+### 🎨 Frontend
+
 <p align="left">
-
-<img src="HTML_IMAGE_URL" width="60"/>
-
-<a href="https://www.w3.org/html/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
-</a>
-
-<a href="https://www.w3schools.com/css/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-</a>
-
-<a href="https://www.typescriptlang.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
-</a>
-
-
-
-<a href="https://reactnative.dev/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React Native"/>
-</a>
-
-
-
-<a href="https://nextjs.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
-</a>
-
-<a href="https://tailwindcss.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
-</a>
-
-<a href="https://getbootstrap.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="45" height="45" alt="Bootstrap"/>
-</a>
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="55" height="55" alt="HTML5"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="55" height="55" alt="CSS3"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="55" height="55" alt="TypeScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55" height="55" alt="React"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="55" height="55" alt="Next.js"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55" alt="Tailwind CSS"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="55" height="55" alt="Bootstrap"/>
 </p>
 
 ### ⚙️ Backend & Database
 
 <p align="left">
-
-<a href="https://nodejs.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/>
-</a>
-
-<a href="https://expressjs.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" alt="Express.js"/>
-</a>
-
-<a href="https://www.mongodb.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/>
-</a>
-
-<a href="https://firebase.google.com/">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" height="45" alt="Firebase"/>
-</a>
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="55" height="55" alt="Node.js"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="55" height="55" alt="Express.js"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="55" height="55" alt="MongoDB"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="55" height="55" alt="Firebase"/>
 </p>
 
 ### 🎨 Design & Tools
 
 <p align="left">
-
-<a href="https://www.figma.com/">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45" alt="Figma"/>
-</a>
-
-<a href="https://www.adobe.com/products/photoshop.html">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" width="45" height="45" alt="Photoshop"/>
-</a>
-
-<a href="https://www.adobe.com/products/illustrator.html">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" width="45" height="45" alt="Illustrator"/>
-</a>
-
-<a href="https://git-scm.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="45" height="45" alt="Git"/>
-</a>
-
-<a href="https://github.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-</a>
-
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="55" height="55" alt="Figma"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" width="55" height="55" alt="Photoshop"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" width="55" height="55" alt="Illustrator"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="55" height="55" alt="Git"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/>
 </p>
 
 ---
