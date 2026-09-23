@@ -125,6 +125,10 @@ I’m looking to collaborate on **React and Full Stack Web Development projects*
 
 ---
 
+📊 GitHub Stats
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="170" /> </p>
+---
 ## 💬 Ask Me About
 
 - JavaScript
