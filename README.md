@@ -170,6 +170,13 @@ I’m looking to collaborate on **React and Full Stack Web Development projects*
 
 ---
 
+## 📫 Connect With Me
+- 📧 Email: ajharuloriginal@gmail.com
+- GitHub: ajharul-islam-original
+
+
+---
+
 ## 💬 Ask Me About
 
 - JavaScript
