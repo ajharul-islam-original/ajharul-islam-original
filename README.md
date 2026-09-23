@@ -1,4 +1,4 @@
-<div align="center">👋 ######Hi, I'm Ajharul Islam
+<div align="center">👋 Hi, I'm Ajharul Islam
 
 💻 Full Stack Web Developer from Bangladesh
 
