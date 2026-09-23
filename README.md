@@ -122,10 +122,11 @@ alt="GitHub Trophies"
 🤝 Connect With Me
 
 <p align="left"><a href="https://www.facebook.com/photo/?fbid=122203399646396220&set=a.122116486076396220" target="_blank">
+  
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="40" alt="Facebook"/>
-</a><a href="mailto:ajharuloriginal@gmail.com">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="40" height="40" alt="Email"/>
+
 </a><a href="https://github.com/ajharul-islam-original">
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
 </a></p>---
 
