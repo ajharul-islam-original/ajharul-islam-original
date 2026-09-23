@@ -55,6 +55,9 @@ I enjoy learning new technologies and improving my development skills.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="55" height="55" alt="Bootstrap"/>
 </p>
 
+<br>
+<br>
+
 ## ⚙️ Backend & Database
 
 <p align="left">
