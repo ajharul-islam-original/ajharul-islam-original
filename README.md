@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ajharul Islam</h1>
+<h1 align="left">Hi 👋, I'm Ajharul Islam</h1>
 
-<h3 align="center">Full Stack Web Developer from Bangladesh</h3>
+<h3 align="left">Full Stack Web Developer from Bangladesh</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ajharul-islam-original&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
