@@ -5,10 +5,10 @@
 
 
 <!-- ===================== BANNER ===================== -->
-<p align="left">
+<p align="center">
   <img src="https://github.com/ajharul-islam-original/Daily-Routine/blob/main/git-photo.jpeg" alt="Profile Views" />
 </p>
----
+
 
 <h3>👨‍💻 About Me</h3>
 
