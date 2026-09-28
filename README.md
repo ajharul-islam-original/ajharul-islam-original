@@ -94,7 +94,7 @@ https://github.com/ajharul-islam-original/my-ass-one-page-app
 
 
 ## 📌 Featured Projects
-### 🛍️ Project 1 — YOUR_PROJECT_NAME
+### 🛍️ Project 1 — PROJECT_NAME  Dev Project
 
 #### Overview: A responsive web application built with modern front-end technologies.
 
