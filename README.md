@@ -94,7 +94,7 @@ https://github.com/ajharul-islam-original/my-ass-one-page-app
 
 
 ## 📌 Featured Projects
-### 🛍️ Project 1 — PROJECT_NAME  Dev Project
+### 🛍️ Project 1 — Dev Project
 
 #### Overview: A responsive web application built with modern front-end technologies.
 
@@ -104,7 +104,7 @@ https://github.com/ajharul-islam-original/my-ass-one-page-app
 🔗 Repository:https://github.com/ajharul-islam-anik/my-web-dev-project-app
 
 
-### 🌸 Project 2 — YOUR_PROJECT_NAME
+### 🌸 Project 2 — Gym Workout Planner
 
 #### Overview: A clean and responsive website designed for a real-world use case.
 
