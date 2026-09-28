@@ -106,11 +106,11 @@ https://github.com/ajharul-islam-original/my-ass-one-page-app
 
 ### 🌸 Project 2 — YOUR_PROJECT_NAME
 
--- Overview: A clean and responsive website designed for a real-world use case.
+#### Overview: A clean and responsive website designed for a real-world use case.
 
--- Tech Stack: React • TypeScript • CSS • Javascript • Next.js
+🔹Tech Stack: React • TypeScript • CSS • Javascript • Next.js
 
-🔗 Live: https://my-app-ass-06.vercel.app/
+🔗 Live: https://my-app-ass-06.vercel.app/ <br>
 🔗 Repository: https://github.com/ajharul-islam-original/my-app-ass-06
 
 ---
